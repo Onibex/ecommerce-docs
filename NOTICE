@@ -1,0 +1,31 @@
+Onibex eCommerce 360° Documentation
+Copyright (c) 2026 Onibex, LLC.
+
+This repository contains documentation (text, content taxonomy, tables, code
+snippets and screenshots) in English and Spanish about Onibex eCommerce 360°,
+the B2B/B2C eCommerce platform designed for use with SAP ERP. It is licensed
+under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International License (CC BY-NC-ND 4.0) — see LICENSE. It is not open source:
+noncommercial redistribution of unmodified copies with attribution is
+permitted; commercial use and derivative works (including translations,
+adaptations and excerpts) require a separate license — see
+COMMERCIAL-LICENSE.md (contact@onibex.com).
+
+The documentation explains how to configure third-party software — SAP ERP
+(SAP SE) and the PrestaShop-based store back office (PrestaShop SA) — and
+includes screenshots of their user interfaces and of other third-party
+software (third-party PrestaShop modules, the Google Chrome developer tools, a
+Microsoft Excel worksheet) for instructional purposes. Those user interfaces
+are not licensed by Onibex. No third-party software is redistributed in this
+repository. Details and the trademark statement are in THIRD-PARTY-NOTICES.md.
+
+SAP, SAP ERP, SAP S/4HANA, SAP ECC, SAP GUI, ABAP and other SAP products and
+services mentioned herein are trademarks or registered trademarks of SAP SE or
+an SAP affiliate company in Germany and other countries. PrestaShop is a
+trademark of PrestaShop SA. MySQL is a trademark of Oracle Corporation. Google
+Chrome is a trademark of Google LLC. Firefox is a trademark of the Mozilla
+Foundation. Microsoft Excel is a trademark of Microsoft Corporation. Amazon Web
+Services and AWS are trademarks of Amazon.com, Inc. or its affiliates. GitHub
+is a trademark of GitHub, Inc. LinkedIn is a trademark of LinkedIn
+Corporation. Other names are trademarks of their respective owners. Used for
+identification only; no endorsement or affiliation is implied.

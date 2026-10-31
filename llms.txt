@@ -1,0 +1,53 @@
+# Onibex eCommerce 360° Documentation
+
+> Bilingual (English/Spanish) technical documentation of Onibex eCommerce 360°, the B2B/B2C eCommerce platform designed for use with SAP ERP: ALE/IDoc configuration guides for SAP ERP (logical system, RFC destination, IDoc port, partner profiles, change pointers, MATMAS, DEBMAS, ORDERS, ORDRSP, DESADV, INVOIC, custom quotation/contract/transport IDocs), SICF web services, cross-selling configuration, the complete list of custom objects created in SAP ERP, and FAQ articles for the store administration panel. Licensed CC BY-NC-ND 4.0 (noncommercial sharing with attribution; commercial license available).
+
+Published by Onibex, LLC (https://www.onibex.com). The same content is available in the Onibex Help Center (https://help.onibex.com/portal/en/kb/ecommerce360). Each document exists in English (`en/`) and Spanish (`es/`) with the same path. SAP and other SAP products and services mentioned herein are trademarks or registered trademarks of SAP SE or an SAP affiliate company in Germany and other countries. PrestaShop is a trademark of PrestaShop SA. Names are used for identification only.
+
+## FAQ (English)
+
+- [Index](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/README.md)
+- [Adding subcategories and images](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/01-catalog/01-add-subcategories-and-images.md)
+- [Adding the subcategory to the menu](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/01-catalog/02-add-subcategory-to-menu.md)
+- [Creating subcategory features and mapping them](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/01-catalog/03-subcategory-features-mapping.md)
+- [Assigning “parent” product images to new related “child” products](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/01-catalog/04-assign-parent-images-to-child-products.md)
+- [Why can't I find some materials?](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/01-catalog/05-why-materials-not-found.md)
+- [Running the price job manually when a customer cannot see certain products](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/02-pricing/01-run-price-job-manually.md)
+- [PRICE_REFRESH when adding materials and prices](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/02-pricing/02-price-refresh-materials-prices.md)
+- [Alphanumeric orders: converting them to confirmed orders in SAP](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/03-orders/01-alphanumeric-orders-to-confirmed.md)
+- [Refreshing cache and cookies to fix “Login as customer”](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/04-administration/01-refresh-cache-cookies-login-as-customer.md)
+- [Why does the navigation tutorial always appear?](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/04-administration/02-why-navigation-tutorial-appears.md)
+
+## Preguntas frecuentes (Español)
+
+- [Índice](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/README.md)
+- [Agregar subcategorías e imágenes](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/01-catalog/01-add-subcategories-and-images.md)
+- [Dar de alta la subcategoría en el menú](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/01-catalog/02-add-subcategory-to-menu.md)
+- [Dar de alta características de la subcategoría y mapearlas](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/01-catalog/03-subcategory-features-mapping.md)
+- [Asignar imágenes de productos “padres” a nuevos productos “hijos” relacionados](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/01-catalog/04-assign-parent-images-to-child-products.md)
+- [¿Por qué no encuentro algunos materiales?](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/01-catalog/05-why-materials-not-found.md)
+- [Correr el job de precios de forma manual cuando el cliente no ve ciertos productos](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/02-pricing/01-run-price-job-manually.md)
+- [PRICE_REFRESH al añadir materiales y precios](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/02-pricing/02-price-refresh-materials-prices.md)
+- [Convertir pedidos con números alfanuméricos en pedidos confirmados en SAP](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/03-orders/01-alphanumeric-orders-to-confirmed.md)
+- [Refrescar caché y cookies para corregir «Login as customer»](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/04-administration/01-refresh-cache-cookies-login-as-customer.md)
+- [¿Por qué siempre me aparece el tutorial de navegación?](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/04-administration/02-why-navigation-tutorial-appears.md)
+
+## Licensing
+
+- [LICENSE](https://github.com/Onibex/ecommerce-docs/blob/faq/LICENSE): Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (SPDX CC-BY-NC-ND-4.0), full legal code with the Onibex copyright and attribution notice
+- [Commercial license](https://github.com/Onibex/ecommerce-docs/blob/faq/COMMERCIAL-LICENSE.md): required for commercial use, translations, adaptations or other derivative works — contact@onibex.com
+- [Third-party notices](https://github.com/Onibex/ecommerce-docs/blob/faq/THIRD-PARTY-NOTICES.md): no third-party software is redistributed; trademark statement for SAP SE, PrestaShop SA and others
+- [NOTICE](https://github.com/Onibex/ecommerce-docs/blob/faq/NOTICE): copyright and license summary
+- [CITATION.cff](https://github.com/Onibex/ecommerce-docs/blob/faq/CITATION.cff): how to cite this documentation
+- [CONTENT-MAP.md](https://github.com/Onibex/ecommerce-docs/blob/faq/CONTENT-MAP.md): document to Help Center article mapping and original language
+
+## Company
+
+- [Onibex](https://www.onibex.com): SAP data integration, agentic AI and B2B/B2C eCommerce; creators of eCommerce 360°, OneConnect and ASK
+- Commercial contact: contact@onibex.com · Support: support@onibex.com
+
+## Optional
+
+- [Onibex Help Center — eCommerce 360°](https://help.onibex.com/portal/en/kb/ecommerce360): original articles
+- [OneConnect documentation](https://github.com/Onibex/oneconnect-docs): real-time data integration platform for SAP systems
+- [ASK — Agentic Semantic Knowledge](https://github.com/Onibex/agentic-semantic-knowledge-ask): natural-language access to SAP data products
