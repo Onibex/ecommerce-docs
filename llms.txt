@@ -1,0 +1,71 @@
+# Onibex eCommerce 360° Documentation
+
+> Bilingual (English/Spanish) technical documentation of Onibex eCommerce 360°, the B2B/B2C eCommerce platform designed for use with SAP ERP: ALE/IDoc configuration guides for SAP ERP (logical system, RFC destination, IDoc port, partner profiles, change pointers, MATMAS, DEBMAS, ORDERS, ORDRSP, DESADV, INVOIC, custom quotation/contract/transport IDocs), SICF web services, cross-selling configuration, the complete list of custom objects created in SAP ERP, and FAQ articles for the store administration panel. Licensed CC BY-NC-ND 4.0 (noncommercial sharing with attribution; commercial license available).
+
+Published by Onibex, LLC (https://www.onibex.com). The same content is available in the Onibex Help Center (https://help.onibex.com/portal/en/kb/ecommerce360). Each document exists in English (`en/`) and Spanish (`es/`) with the same path. SAP and other SAP products and services mentioned herein are trademarks or registered trademarks of SAP SE or an SAP affiliate company in Germany and other countries. PrestaShop is a trademark of PrestaShop SA. Names are used for identification only.
+
+## Technical documents (English)
+
+- [Index](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/README.md)
+- [Systems integration overview: SAP ERP and eCommerce 360°](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/01-overview/01-systems-integration-overview.md)
+- [Logical system definition in SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/02-ale-foundations/01-logical-system-definition.md)
+- [Defining the RFC destination in SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/02-ale-foundations/02-rfc-destination.md)
+- [Port definition for IDoc processing in SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/02-ale-foundations/03-idoc-port-definition.md)
+- [SAP partner profile definition for IDocs](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/02-ale-foundations/04-partner-profile.md)
+- [Setting up change pointers](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/02-ale-foundations/05-change-pointers.md)
+- [MATMAS IDoc configuration (material master)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/03-master-data-idocs/01-matmas-idoc.md)
+- [DEBMAS IDoc configuration (customer master)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/03-master-data-idocs/02-debmas-idoc.md)
+- [Setting up the IDoc to create SD quotations](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/01-quotation-idoc.md)
+- [Setting up the IDoc to confirm zQuote creation](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/02-quotation-confirmation-idoc.md)
+- [ORDERS IDoc configuration for sales orders](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/03-orders-idoc.md)
+- [Setting up the ORDRSP IDoc for confirmation of the sales order](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/04-ordrsp-idoc.md)
+- [DESADV IDoc configuration to send delivery confirmation](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/05-desadv-idoc.md)
+- [Setting up the INVOIC IDoc to send the invoice](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/06-invoic-idoc.md)
+- [ZON_SHP IDoc configuration to send the transport document](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/04-sales-document-idocs/07-zon-shp-transport-idoc.md)
+- [Deployment of SICF services for communications using web services](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/05-web-services/01-sicf-web-services.md)
+- [Creating a credit-control blocking reason in the Business Partner (BP)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/06-sales-configuration/01-credit-block-reason-business-partner.md)
+- [Cross-selling and up-selling configuration (alternative materials)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/06-sales-configuration/02-cross-selling-up-selling.md)
+- [Complete SAP object list specification](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/en/technical-documents/07-reference/01-sap-object-list.md)
+
+## Documentos técnicos (Español)
+
+- [Índice](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/README.md)
+- [Integración de sistemas: visión general (SAP ERP y eCommerce 360°)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/01-overview/01-systems-integration-overview.md)
+- [Definición de sistema lógico en SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/02-ale-foundations/01-logical-system-definition.md)
+- [Definición del destino RFC (Remote Function Call) en SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/02-ale-foundations/02-rfc-destination.md)
+- [Definición del puerto para el procesamiento de IDocs en SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/02-ale-foundations/03-idoc-port-definition.md)
+- [Definición de perfiles de interlocutor (partner profile) en SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/02-ale-foundations/04-partner-profile.md)
+- [Configuración de los punteros de modificación (change pointers)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/02-ale-foundations/05-change-pointers.md)
+- [Configuración del IDoc MATMAS (maestro de materiales)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/03-master-data-idocs/01-matmas-idoc.md)
+- [Configuración del IDoc DEBMAS (maestro de clientes)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/03-master-data-idocs/02-debmas-idoc.md)
+- [Configuración del IDoc para crear cotizaciones (quotations) SD](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/01-quotation-idoc.md)
+- [Configuración del IDoc para confirmar la creación de la cotización](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/02-quotation-confirmation-idoc.md)
+- [Configuración del IDoc ORDERS para pedidos de venta (sales orders)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/03-orders-idoc.md)
+- [Configuración del IDoc ORDRSP para la confirmación del pedido de venta](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/04-ordrsp-idoc.md)
+- [Configuración del IDoc DESADV para enviar la confirmación de la entrega](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/05-desadv-idoc.md)
+- [Configuración del IDoc INVOIC para enviar la factura](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/06-invoic-idoc.md)
+- [Configuración del IDoc ZON_SHP para enviar el documento de transporte](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/04-sales-document-idocs/07-zon-shp-transport-idoc.md)
+- [Creación de servicios en SICF para la comunicación por web services](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/05-web-services/01-sicf-web-services.md)
+- [Creación del motivo de bloqueo para control de crédito en el Business Partner (BP)](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/06-sales-configuration/01-credit-block-reason-business-partner.md)
+- [Configuración de materiales alternativos: cross-selling y up-selling](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/06-sales-configuration/02-cross-selling-up-selling.md)
+- [Especificación completa de la lista de objetos de SAP](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/es/technical-documents/07-reference/01-sap-object-list.md)
+
+## Licensing
+
+- [LICENSE](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/LICENSE): Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (SPDX CC-BY-NC-ND-4.0), full legal code with the Onibex copyright and attribution notice
+- [Commercial license](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/COMMERCIAL-LICENSE.md): required for commercial use, translations, adaptations or other derivative works — contact@onibex.com
+- [Third-party notices](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/THIRD-PARTY-NOTICES.md): no third-party software is redistributed; trademark statement for SAP SE, PrestaShop SA and others
+- [NOTICE](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/NOTICE): copyright and license summary
+- [CITATION.cff](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/CITATION.cff): how to cite this documentation
+- [CONTENT-MAP.md](https://github.com/Onibex/ecommerce-docs/blob/technical-documents/CONTENT-MAP.md): document to Help Center article mapping and original language
+
+## Company
+
+- [Onibex](https://www.onibex.com): SAP data integration, agentic AI and B2B/B2C eCommerce; creators of eCommerce 360°, OneConnect and ASK
+- Commercial contact: contact@onibex.com · Support: support@onibex.com
+
+## Optional
+
+- [Onibex Help Center — eCommerce 360°](https://help.onibex.com/portal/en/kb/ecommerce360): original articles
+- [OneConnect documentation](https://github.com/Onibex/oneconnect-docs): real-time data integration platform for SAP systems
+- [ASK — Agentic Semantic Knowledge](https://github.com/Onibex/agentic-semantic-knowledge-ask): natural-language access to SAP data products
