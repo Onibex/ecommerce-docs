@@ -3,9 +3,8 @@
 # SPDX License List (unlike the PolyForm licenses used by Onibex code repositories),
 # so it can be declared directly. Validate before committing:
 #     pipx run cffconvert --validate
-# Keep 'version' and 'date-released' in sync with the GitHub Release tag: if the
-# v1.0.0 release is published on a later date, update 'date-released' in the same
-# commit that precedes the tag.
+# Keep 'version' and 'date-released' in sync with the GitHub Release tag: update
+# both in the commit that precedes each release tag.
 cff-version: 1.2.0
 message: "If you reference this documentation, please cite it as below."
 title: "Onibex eCommerce 360° Documentation — ALE/IDoc configuration guides for SAP ERP and FAQ (English/Spanish)"
@@ -25,7 +24,7 @@ authors:
     website: "https://www.onibex.com"
 license: CC-BY-NC-ND-4.0
 license-url: "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-02"
 url: "https://help.onibex.com/portal/en/kb/ecommerce360"
 repository-code: "https://github.com/Onibex/ecommerce-docs"
