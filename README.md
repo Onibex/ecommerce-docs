@@ -24,7 +24,7 @@ This repository is the official documentation hub for **Onibex eCommerce 360°**
 
 ### Documentation
 
-This branch (`technical-documents`) contains **19 documents in English and the same 19 in Spanish**, with **211 screenshots**. The FAQ articles are published in the branch [`faq`](https://github.com/Onibex/ecommerce-docs/tree/faq).
+This repository contains **19 technical documents and 10 FAQ articles**, each one in English and in Spanish, with **249 screenshots**.
 
 #### Technical documents — ALE, IDocs and web services in SAP ERP
 
@@ -57,7 +57,19 @@ Step-by-step configuration in SAP ERP, from the logical system to the IDocs that
 
 Short how-to articles for the store administration panel (catalog, pricing, orders, administration).
 
-Published in the branch [`faq`](https://github.com/Onibex/ecommerce-docs/tree/faq) — see its [English index](https://github.com/Onibex/ecommerce-docs/blob/faq/en/faq/README.md).
+| # | Document | Group |
+|---|---|---|
+| 1 | [Adding subcategories and images](en/faq/01-catalog/01-add-subcategories-and-images.md) | Catalog |
+| 2 | [Adding the subcategory to the menu](en/faq/01-catalog/02-add-subcategory-to-menu.md) | Catalog |
+| 3 | [Creating subcategory features and mapping them](en/faq/01-catalog/03-subcategory-features-mapping.md) | Catalog |
+| 4 | [Assigning “parent” product images to new related “child” products](en/faq/01-catalog/04-assign-parent-images-to-child-products.md) | Catalog |
+| 5 | [Why can't I find some materials?](en/faq/01-catalog/05-why-materials-not-found.md) | Catalog |
+| 6 | [Running the price job manually when a customer cannot see certain products](en/faq/02-pricing/01-run-price-job-manually.md) | Pricing |
+| 7 | [PRICE_REFRESH when adding materials and prices](en/faq/02-pricing/02-price-refresh-materials-prices.md) | Pricing |
+| 8 | [Alphanumeric orders: converting them to confirmed orders in SAP](en/faq/03-orders/01-alphanumeric-orders-to-confirmed.md) | Orders |
+| 9 | [Refreshing cache and cookies to fix “Login as customer”](en/faq/04-administration/01-refresh-cache-cookies-login-as-customer.md) | Administration |
+| 10 | [Why does the navigation tutorial always appear?](en/faq/04-administration/02-why-navigation-tutorial-appears.md) | Administration |
+
 
 #### How to read this repository
 
@@ -191,7 +203,7 @@ If you reference this documentation, please cite it using the metadata in [CITAT
 
 ### Documentación
 
-Esta rama (`technical-documents`) contiene **19 documentos en inglés y los mismos 19 en español**, con **211 capturas de pantalla**. Las preguntas frecuentes se publican en la rama [`faq`](https://github.com/Onibex/ecommerce-docs/tree/faq).
+Este repositorio contiene **19 documentos técnicos y 10 preguntas frecuentes**, cada uno en inglés y en español, con **249 capturas de pantalla**.
 
 #### Documentos técnicos — ALE, IDocs y servicios web en SAP ERP
 
@@ -224,7 +236,19 @@ Configuración paso a paso en SAP ERP, desde el sistema lógico hasta los IDocs 
 
 Artículos breves de "cómo hacer" para el panel de administración de la tienda (catálogo, precios, pedidos, administración).
 
-Publicadas en la rama [`faq`](https://github.com/Onibex/ecommerce-docs/tree/faq) — vea su [índice en español](https://github.com/Onibex/ecommerce-docs/blob/faq/es/faq/README.md).
+| # | Documento | Grupo |
+|---|---|---|
+| 1 | [Agregar subcategorías e imágenes](es/faq/01-catalog/01-add-subcategories-and-images.md) | Catálogo |
+| 2 | [Dar de alta la subcategoría en el menú](es/faq/01-catalog/02-add-subcategory-to-menu.md) | Catálogo |
+| 3 | [Dar de alta características de la subcategoría y mapearlas](es/faq/01-catalog/03-subcategory-features-mapping.md) | Catálogo |
+| 4 | [Asignar imágenes de productos “padres” a nuevos productos “hijos” relacionados](es/faq/01-catalog/04-assign-parent-images-to-child-products.md) | Catálogo |
+| 5 | [¿Por qué no encuentro algunos materiales?](es/faq/01-catalog/05-why-materials-not-found.md) | Catálogo |
+| 6 | [Correr el job de precios de forma manual cuando el cliente no ve ciertos productos](es/faq/02-pricing/01-run-price-job-manually.md) | Precios |
+| 7 | [PRICE_REFRESH al añadir materiales y precios](es/faq/02-pricing/02-price-refresh-materials-prices.md) | Precios |
+| 8 | [Convertir pedidos con números alfanuméricos en pedidos confirmados en SAP](es/faq/03-orders/01-alphanumeric-orders-to-confirmed.md) | Pedidos |
+| 9 | [Refrescar caché y cookies para corregir «Login as customer»](es/faq/04-administration/01-refresh-cache-cookies-login-as-customer.md) | Administración |
+| 10 | [¿Por qué siempre me aparece el tutorial de navegación?](es/faq/04-administration/02-why-navigation-tutorial-appears.md) | Administración |
+
 
 #### Cómo leer este repositorio
 
